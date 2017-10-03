@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hi man
+
+hubot here,I like node.js and java
